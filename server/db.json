@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Un premier titre",
+      "last_reply": "1997-07-2015"
+    },
+    {
+      "id": 2,
+      "title": "Un deuxième titre",
+      "last_reply": "2000-07-2015"
+    },
+    {
+      "id": 3,
+      "title": "Un troisième titre",
+      "last_reply": "2014-07-2015"
+    }
+  ],
+  "activeUsers": [
+    {
+      "name": "José",
+      "avatar": "avatar.jpg"
+    },
+    {
+      "name": "Robert",
+      "avatar": "avatar.jpg"
+    },
+    {
+      "name": "Julien",
+      "avatar": "avatar.jpg"
+    }
+  ]
+}
